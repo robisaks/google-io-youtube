@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YouTube Access</string>
+    <string name="app_label">YouTube Access</string>
+    <string name="channel_label">YouTube Channel Info</string>
+    <string name="search_hint">Search YouTube</string>
+</resources>
